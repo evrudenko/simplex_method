@@ -1,0 +1,12 @@
+debug/main.o
+debug/MainWindow.o
+debug/SetupWindow.o
+debug/Optimizer.o
+debug/Controller.o
+debug/TableSaver.o
+debug/SystemSaver.o
+debug/ABMSystemSaver.o
+debug/Fraction.o
+debug/moc_MainWindow.o
+debug/moc_SetupWindow.o
+debug/moc_Controller.o

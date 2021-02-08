@@ -1,0 +1,12 @@
+release/main.o
+release/MainWindow.o
+release/SetupWindow.o
+release/Optimizer.o
+release/Controller.o
+release/TableSaver.o
+release/SystemSaver.o
+release/ABMSystemSaver.o
+release/Fraction.o
+release/moc_MainWindow.o
+release/moc_SetupWindow.o
+release/moc_Controller.o

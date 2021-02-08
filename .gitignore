@@ -1,0 +1,4 @@
+*.txt
+release/
+debug/
+*.exe
